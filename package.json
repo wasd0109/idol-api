@@ -1,0 +1,26 @@
+{
+  "name": "idol-api",
+  "version": "0.0.1",
+  "description": "An API with all Japanese Idol's information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasd0109/idol-api.git"
+  },
+  "keywords": [
+    "idol",
+    "japanese"
+  ],
+  "author": "Ken Cheung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wasd0109/idol-api/issues"
+  },
+  "homepage": "https://github.com/wasd0109/idol-api#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
